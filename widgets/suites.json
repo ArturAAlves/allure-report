@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"76c75bbbfcea26a954b560a3ce70190f","name":"tests/demo-todo-app.spec.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":24,"unknown":0,"total":24}},{"uid":"ac0ca464bf90d5376291763010c6fe85","name":"tests/example.spec.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
